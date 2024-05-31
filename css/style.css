@@ -18,7 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(70, 145, 211);
+    background-color: rgb(114, 2, 2);
     padding: 20px 15px 30px;
 }
 #title{
@@ -50,7 +50,7 @@ body{
 #btn{
     width: 145px;
     height: 54px;
-    background-color: #e5464f;
+    background-color: rgb(230, 154, 12);
     border-radius: 6px;
 
     font-weight: 500;
@@ -61,7 +61,7 @@ body{
     transition: background-color 0.2s ease-in;
 }
 #btn:hover{
-    background-color: #f5313b;
+    background-color: rgb(255, 166, 0);
 }
 
 /* Card */
@@ -104,7 +104,7 @@ body{
     vertical-align: text-top;
 
     padding: 3px 5px;
-    background-color: #e5464f;
+    background-color: rgb(114, 2, 2);
     border-radius: 6px;
 
     color: #fff;
@@ -141,7 +141,7 @@ body{
     padding: 8px 15px;
     width: 100%;
     text-align: center;
-    background-color: rgb(70, 145, 211);
+    background-color: rgb(114, 2, 2);
 
     font-size: 14px;
     line-height: 1;
